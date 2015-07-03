@@ -22,7 +22,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://lkvm114.gicp.net:39915/app/images/order.png</string>
+     <string>http://lkvm114.gicp.net:39915/app/images/Approval.png</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -31,7 +31,7 @@
      <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>http://lkvm114.gicp.net:39915/app/images/ldpi/order.png</string>
+     <string>http://lkvm114.gicp.net:39915/app/images/ldpi/Approval.png</string>
     </dict>
    </array>
    <key>metadata</key>
